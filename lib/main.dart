@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:tash_provider/models/card_notifier.dart';
+import 'package:tash_provider/provider/card_notifier.dart';
 import 'package:tash_provider/screens/home_page.dart';
 
 void main() {
